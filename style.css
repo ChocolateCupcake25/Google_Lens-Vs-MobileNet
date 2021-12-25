@@ -1,0 +1,12 @@
+.test_image_and_result{
+    text-align: center;
+    background-color: rgb(181, 181, 247);
+    padding: 20px;
+    border:white 5px solid;
+    border-radius: 50px;
+}
+#heading{
+    background-color: violet;
+    border: violet 2px solid;
+    border-radius: 10px;
+}
